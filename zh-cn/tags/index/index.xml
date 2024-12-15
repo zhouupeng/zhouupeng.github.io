@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>index on Hugo Zzo Theme</title>
-    <link>zhouupeng.github.io/zh-cn/tags/index/</link>
+    <link>https://zhouupeng.github.io/zh-cn/tags/index/</link>
     <description>Recent content in index on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
@@ -15,17 +15,17 @@
     <webMaster>25819877@qq.com (zhoupeng)</webMaster>
     <copyright>©2024, All Rights Reserved</copyright>
     
-        <atom:link href="zhouupeng.github.io/zh-cn/tags/index/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://zhouupeng.github.io/zh-cn/tags/index/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Posts</title>
-        <link>zhouupeng.github.io/zh-cn/posts/</link>
+        <link>https://zhouupeng.github.io/zh-cn/posts/</link>
         <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
         <author>25819877@qq.com (zhoupeng)</author>
         
-        <guid>zhouupeng.github.io/zh-cn/posts/</guid>
+        <guid>https://zhouupeng.github.io/zh-cn/posts/</guid>
         <description></description>
         
         <dc:creator>Hugo Authors</dc:creator>

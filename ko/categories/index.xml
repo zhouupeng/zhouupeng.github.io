@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Categories on Hugo Zzo Theme</title>
-    <link>zhouupeng.github.io/ko/categories/</link>
+    <link>https://zhouupeng.github.io/ko/categories/</link>
     <description>Recent content in Categories on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
@@ -15,7 +15,7 @@
     <webMaster>25819877@qq.com (zhoupeng)</webMaster>
     <copyright>©2024, All Rights Reserved</copyright>
     
-        <atom:link href="zhouupeng.github.io/ko/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://zhouupeng.github.io/ko/categories/index.xml" rel="self" type="application/rss+xml" />
     
 
       

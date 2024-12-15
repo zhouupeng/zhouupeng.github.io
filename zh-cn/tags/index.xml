@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Tags on Hugo Zzo Theme</title>
-    <link>zhouupeng.github.io/zh-cn/tags/</link>
+    <link>https://zhouupeng.github.io/zh-cn/tags/</link>
     <description>Recent content in Tags on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
@@ -16,17 +16,17 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Mon, 16 Dec 2019 12:00:06 +0900</lastBuildDate>
     
-        <atom:link href="zhouupeng.github.io/zh-cn/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://zhouupeng.github.io/zh-cn/tags/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>amoji</title>
-        <link>zhouupeng.github.io/zh-cn/tags/amoji/</link>
+        <link>https://zhouupeng.github.io/zh-cn/tags/amoji/</link>
         <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
         <author>25819877@qq.com (zhoupeng)</author>
         
-        <guid>zhouupeng.github.io/zh-cn/tags/amoji/</guid>
+        <guid>https://zhouupeng.github.io/zh-cn/tags/amoji/</guid>
         <description></description>
         
         <dc:creator>zhoupeng</dc:creator>
@@ -40,11 +40,11 @@
       
       <item>
         <title>bamoji</title>
-        <link>zhouupeng.github.io/zh-cn/tags/bamoji/</link>
+        <link>https://zhouupeng.github.io/zh-cn/tags/bamoji/</link>
         <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
         <author>25819877@qq.com (zhoupeng)</author>
         
-        <guid>zhouupeng.github.io/zh-cn/tags/bamoji/</guid>
+        <guid>https://zhouupeng.github.io/zh-cn/tags/bamoji/</guid>
         <description></description>
         
         <dc:creator>zhoupeng</dc:creator>
@@ -58,11 +58,11 @@
       
       <item>
         <title>emoji</title>
-        <link>zhouupeng.github.io/zh-cn/tags/emoji/</link>
+        <link>https://zhouupeng.github.io/zh-cn/tags/emoji/</link>
         <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
         <author>25819877@qq.com (zhoupeng)</author>
         
-        <guid>zhouupeng.github.io/zh-cn/tags/emoji/</guid>
+        <guid>https://zhouupeng.github.io/zh-cn/tags/emoji/</guid>
         <description></description>
         
         <dc:creator>zhoupeng</dc:creator>
@@ -76,11 +76,11 @@
       
       <item>
         <title>gamoji</title>
-        <link>zhouupeng.github.io/zh-cn/tags/gamoji/</link>
+        <link>https://zhouupeng.github.io/zh-cn/tags/gamoji/</link>
         <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
         <author>25819877@qq.com (zhoupeng)</author>
         
-        <guid>zhouupeng.github.io/zh-cn/tags/gamoji/</guid>
+        <guid>https://zhouupeng.github.io/zh-cn/tags/gamoji/</guid>
         <description></description>
         
         <dc:creator>zhoupeng</dc:creator>
@@ -94,11 +94,11 @@
       
       <item>
         <title>namoji</title>
-        <link>zhouupeng.github.io/zh-cn/tags/namoji/</link>
+        <link>https://zhouupeng.github.io/zh-cn/tags/namoji/</link>
         <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
         <author>25819877@qq.com (zhoupeng)</author>
         
-        <guid>zhouupeng.github.io/zh-cn/tags/namoji/</guid>
+        <guid>https://zhouupeng.github.io/zh-cn/tags/namoji/</guid>
         <description></description>
         
         <dc:creator>zhoupeng</dc:creator>
@@ -112,11 +112,11 @@
       
       <item>
         <title>index</title>
-        <link>zhouupeng.github.io/zh-cn/tags/index/</link>
+        <link>https://zhouupeng.github.io/zh-cn/tags/index/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         <author>25819877@qq.com (zhoupeng)</author>
         
-        <guid>zhouupeng.github.io/zh-cn/tags/index/</guid>
+        <guid>https://zhouupeng.github.io/zh-cn/tags/index/</guid>
         <description></description>
         
         <dc:creator>zhoupeng</dc:creator>
