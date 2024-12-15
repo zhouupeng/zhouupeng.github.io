@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://zhouupeng.github.io/zh-cn/about/</loc>
+    <loc>https://zhouupeng.github.io/about/</loc>
     <lastmod>2024-12-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -17,10 +17,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://zhouupeng.github.io/zh-cn/about/"
+                href="https://zhouupeng.github.io/about/"
                 />
   </url><url>
-    <loc>https://zhouupeng.github.io/zh-cn/</loc>
+    <loc>https://zhouupeng.github.io/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -35,10 +35,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://zhouupeng.github.io/zh-cn/"
+                href="https://zhouupeng.github.io/"
                 />
   </url><url>
-    <loc>https://zhouupeng.github.io/zh-cn/tags/amoji/</loc>
+    <loc>https://zhouupeng.github.io/tags/amoji/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -48,10 +48,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://zhouupeng.github.io/zh-cn/tags/amoji/"
+                href="https://zhouupeng.github.io/tags/amoji/"
                 />
   </url><url>
-    <loc>https://zhouupeng.github.io/zh-cn/tags/bamoji/</loc>
+    <loc>https://zhouupeng.github.io/tags/bamoji/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -61,10 +61,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://zhouupeng.github.io/zh-cn/tags/bamoji/"
+                href="https://zhouupeng.github.io/tags/bamoji/"
                 />
   </url><url>
-    <loc>https://zhouupeng.github.io/zh-cn/tags/emoji/</loc>
+    <loc>https://zhouupeng.github.io/tags/emoji/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -74,10 +74,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://zhouupeng.github.io/zh-cn/tags/emoji/"
+                href="https://zhouupeng.github.io/tags/emoji/"
                 />
   </url><url>
-    <loc>https://zhouupeng.github.io/zh-cn/posts/emoji-support/</loc>
+    <loc>https://zhouupeng.github.io/posts/emoji-support/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -87,10 +87,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://zhouupeng.github.io/zh-cn/posts/emoji-support/"
+                href="https://zhouupeng.github.io/posts/emoji-support/"
                 />
   </url><url>
-    <loc>https://zhouupeng.github.io/zh-cn/tags/gamoji/</loc>
+    <loc>https://zhouupeng.github.io/tags/gamoji/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -100,10 +100,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://zhouupeng.github.io/zh-cn/tags/gamoji/"
+                href="https://zhouupeng.github.io/tags/gamoji/"
                 />
   </url><url>
-    <loc>https://zhouupeng.github.io/zh-cn/tags/namoji/</loc>
+    <loc>https://zhouupeng.github.io/tags/namoji/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -113,10 +113,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://zhouupeng.github.io/zh-cn/tags/namoji/"
+                href="https://zhouupeng.github.io/tags/namoji/"
                 />
   </url><url>
-    <loc>https://zhouupeng.github.io/zh-cn/posts/</loc>
+    <loc>https://zhouupeng.github.io/posts/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -131,10 +131,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://zhouupeng.github.io/zh-cn/posts/"
+                href="https://zhouupeng.github.io/posts/"
                 />
   </url><url>
-    <loc>https://zhouupeng.github.io/zh-cn/tags/</loc>
+    <loc>https://zhouupeng.github.io/tags/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -149,10 +149,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://zhouupeng.github.io/zh-cn/tags/"
+                href="https://zhouupeng.github.io/tags/"
                 />
   </url><url>
-    <loc>https://zhouupeng.github.io/zh-cn/categories/</loc>
+    <loc>https://zhouupeng.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -166,10 +166,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://zhouupeng.github.io/zh-cn/categories/"
+                href="https://zhouupeng.github.io/categories/"
                 />
   </url><url>
-    <loc>https://zhouupeng.github.io/zh-cn/tags/index/</loc>
+    <loc>https://zhouupeng.github.io/tags/index/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -183,10 +183,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://zhouupeng.github.io/zh-cn/tags/index/"
+                href="https://zhouupeng.github.io/tags/index/"
                 />
   </url><url>
-    <loc>https://zhouupeng.github.io/zh-cn/series/</loc>
+    <loc>https://zhouupeng.github.io/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -200,7 +200,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://zhouupeng.github.io/zh-cn/series/"
+                href="https://zhouupeng.github.io/series/"
                 />
   </url>
 </urlset>
