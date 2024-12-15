@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Hugo Zzo Theme</title>
-    <link>http://example.org/zh-cn/</link>
+    <link>zhouupeng.github.io/zh-cn/</link>
     <description>Recent content on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
@@ -16,7 +16,7 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Mon, 16 Dec 2019 12:00:06 +0900</lastBuildDate>
     
-        <atom:link href="http://example.org/zh-cn/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="zhouupeng.github.io/zh-cn/index.xml" rel="self" type="application/rss+xml" />
     
       
       
@@ -43,11 +43,11 @@
       
       <item>
         <title>Emoji Support</title>
-        <link>http://example.org/zh-cn/posts/emoji-support/</link>
+        <link>zhouupeng.github.io/zh-cn/posts/emoji-support/</link>
         <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
         <author>25819877@qq.com (zhoupeng)</author>
         <atom:modified>Mon, 16 Dec 2019 12:00:06 +0900</atom:modified>
-        <guid>http://example.org/zh-cn/posts/emoji-support/</guid>
+        <guid>zhouupeng.github.io/zh-cn/posts/emoji-support/</guid>
         <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
         
         <dc:creator>Kim</dc:creator>

@@ -2,205 +2,205 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/zh-cn/about/</loc>
+    <loc>zhouupeng.github.io/zh-cn/about/</loc>
     <lastmod>2024-12-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/about/"
+                href="zhouupeng.github.io/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/about/"
+                href="zhouupeng.github.io/ko/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://example.org/zh-cn/about/"
+                href="zhouupeng.github.io/zh-cn/about/"
                 />
   </url><url>
-    <loc>http://example.org/zh-cn/</loc>
+    <loc>zhouupeng.github.io/zh-cn/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/"
+                href="zhouupeng.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/"
+                href="zhouupeng.github.io/ko/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://example.org/zh-cn/"
+                href="zhouupeng.github.io/zh-cn/"
                 />
   </url><url>
-    <loc>http://example.org/zh-cn/tags/amoji/</loc>
+    <loc>zhouupeng.github.io/zh-cn/tags/amoji/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/tags/amoji/"
+                href="zhouupeng.github.io/en/tags/amoji/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://example.org/zh-cn/tags/amoji/"
+                href="zhouupeng.github.io/zh-cn/tags/amoji/"
                 />
   </url><url>
-    <loc>http://example.org/zh-cn/tags/bamoji/</loc>
+    <loc>zhouupeng.github.io/zh-cn/tags/bamoji/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/tags/bamoji/"
+                href="zhouupeng.github.io/en/tags/bamoji/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://example.org/zh-cn/tags/bamoji/"
+                href="zhouupeng.github.io/zh-cn/tags/bamoji/"
                 />
   </url><url>
-    <loc>http://example.org/zh-cn/tags/emoji/</loc>
+    <loc>zhouupeng.github.io/zh-cn/tags/emoji/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/tags/emoji/"
+                href="zhouupeng.github.io/en/tags/emoji/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://example.org/zh-cn/tags/emoji/"
+                href="zhouupeng.github.io/zh-cn/tags/emoji/"
                 />
   </url><url>
-    <loc>http://example.org/zh-cn/posts/emoji-support/</loc>
+    <loc>zhouupeng.github.io/zh-cn/posts/emoji-support/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/posts/emoji-support/"
+                href="zhouupeng.github.io/en/posts/emoji-support/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://example.org/zh-cn/posts/emoji-support/"
+                href="zhouupeng.github.io/zh-cn/posts/emoji-support/"
                 />
   </url><url>
-    <loc>http://example.org/zh-cn/tags/gamoji/</loc>
+    <loc>zhouupeng.github.io/zh-cn/tags/gamoji/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/tags/gamoji/"
+                href="zhouupeng.github.io/en/tags/gamoji/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://example.org/zh-cn/tags/gamoji/"
+                href="zhouupeng.github.io/zh-cn/tags/gamoji/"
                 />
   </url><url>
-    <loc>http://example.org/zh-cn/tags/namoji/</loc>
+    <loc>zhouupeng.github.io/zh-cn/tags/namoji/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/tags/namoji/"
+                href="zhouupeng.github.io/en/tags/namoji/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://example.org/zh-cn/tags/namoji/"
+                href="zhouupeng.github.io/zh-cn/tags/namoji/"
                 />
   </url><url>
-    <loc>http://example.org/zh-cn/posts/</loc>
+    <loc>zhouupeng.github.io/zh-cn/posts/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/posts/"
+                href="zhouupeng.github.io/en/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/posts/"
+                href="zhouupeng.github.io/ko/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://example.org/zh-cn/posts/"
+                href="zhouupeng.github.io/zh-cn/posts/"
                 />
   </url><url>
-    <loc>http://example.org/zh-cn/tags/</loc>
+    <loc>zhouupeng.github.io/zh-cn/tags/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/tags/"
+                href="zhouupeng.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/tags/"
+                href="zhouupeng.github.io/ko/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://example.org/zh-cn/tags/"
+                href="zhouupeng.github.io/zh-cn/tags/"
                 />
   </url><url>
-    <loc>http://example.org/zh-cn/categories/</loc>
+    <loc>zhouupeng.github.io/zh-cn/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/categories/"
+                href="zhouupeng.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/categories/"
+                href="zhouupeng.github.io/ko/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://example.org/zh-cn/categories/"
+                href="zhouupeng.github.io/zh-cn/categories/"
                 />
   </url><url>
-    <loc>http://example.org/zh-cn/tags/index/</loc>
+    <loc>zhouupeng.github.io/zh-cn/tags/index/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/tags/index/"
+                href="zhouupeng.github.io/en/tags/index/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/tags/index/"
+                href="zhouupeng.github.io/ko/tags/index/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://example.org/zh-cn/tags/index/"
+                href="zhouupeng.github.io/zh-cn/tags/index/"
                 />
   </url><url>
-    <loc>http://example.org/zh-cn/series/</loc>
+    <loc>zhouupeng.github.io/zh-cn/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/series/"
+                href="zhouupeng.github.io/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/series/"
+                href="zhouupeng.github.io/ko/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://example.org/zh-cn/series/"
+                href="zhouupeng.github.io/zh-cn/series/"
                 />
   </url>
 </urlset>
