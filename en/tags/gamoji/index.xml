@@ -6,9 +6,9 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>gamoji on Hugo Zzo Theme</title>
+    <title>gamoji on 周鹏的文档</title>
     <link>https://zhouupeng.github.io/en/tags/gamoji/</link>
-    <description>Recent content in gamoji on Hugo Zzo Theme</description>
+    <description>Recent content in gamoji on 周鹏的文档</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>25819877@qq.com (zhoupeng)</managingEditor>
@@ -22,11 +22,51 @@
       
       <item>
         <title>Emoji Support</title>
-        <link>https://zhouupeng.github.io/en/posts/emoji-support/</link>
+        <link>https://zhouupeng.github.io/en/en/posts/emoji-support/</link>
         <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
         <author>25819877@qq.com (zhoupeng)</author>
         <atom:modified>Mon, 16 Dec 2019 12:00:06 +0900</atom:modified>
-        <guid>https://zhouupeng.github.io/en/posts/emoji-support/</guid>
+        <guid>https://zhouupeng.github.io/en/en/posts/emoji-support/</guid>
+        <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+        
+        <dc:creator>Kim</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>emoji</category>
+            
+          
+            
+              <category>gamoji</category>
+            
+          
+            
+              <category>namoji</category>
+            
+          
+            
+              <category>bamoji</category>
+            
+          
+            
+              <category>amoji</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Emoji Support</title>
+        <link>https://zhouupeng.github.io/en/zh-cn/posts/emoji-support/</link>
+        <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
+        <author>25819877@qq.com (zhoupeng)</author>
+        <atom:modified>Mon, 16 Dec 2019 12:00:06 +0900</atom:modified>
+        <guid>https://zhouupeng.github.io/en/zh-cn/posts/emoji-support/</guid>
         <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
         
         <dc:creator>Kim</dc:creator>

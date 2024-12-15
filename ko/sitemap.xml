@@ -2,13 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://zhouupeng.github.io/ko/</loc>
+    <loc>https://zhouupeng.github.io/ko/ko/archive/</loc>
+    <lastmod>2019-10-19T11:44:14+09:00</lastmod>
+  </url><url>
+    <loc>https://zhouupeng.github.io/ko/ko/</loc>
     <lastmod>2019-10-19T11:44:14+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zhouupeng.github.io/en/"
+                href="https://zhouupeng.github.io/en/ko/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://zhouupeng.github.io/ko/ko/"
+                />
+  </url><url>
+    <loc>https://zhouupeng.github.io/ko/</loc>
+    <lastmod>2019-10-19T11:44:14+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -16,90 +27,34 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="en"
+                href="https://zhouupeng.github.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ko"
                 href="https://zhouupeng.github.io/ko/"
                 />
   </url><url>
-    <loc>https://zhouupeng.github.io/ko/archive/</loc>
-    <lastmod>2019-10-19T11:44:14+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zhouupeng.github.io/en/archive/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://zhouupeng.github.io/ko/archive/"
-                />
-  </url><url>
-    <loc>https://zhouupeng.github.io/ko/about/</loc>
+    <loc>https://zhouupeng.github.io/ko/ko/about/</loc>
     <lastmod>2019-10-09T11:44:14+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zhouupeng.github.io/en/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://zhouupeng.github.io/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://zhouupeng.github.io/ko/about/"
-                />
   </url><url>
-    <loc>https://zhouupeng.github.io/ko/gallery/</loc>
+    <loc>https://zhouupeng.github.io/ko/ko/gallery/photo/</loc>
     <lastmod>2018-10-12T10:20:16+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zhouupeng.github.io/en/gallery/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://zhouupeng.github.io/ko/gallery/"
-                />
   </url><url>
-    <loc>https://zhouupeng.github.io/ko/gallery/photo/</loc>
-    <lastmod>2018-10-12T10:20:16+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zhouupeng.github.io/en/gallery/photo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://zhouupeng.github.io/ko/gallery/photo/"
-                />
-  </url><url>
-    <loc>https://zhouupeng.github.io/ko/gallery/cartoon/</loc>
+    <loc>https://zhouupeng.github.io/ko/ko/gallery/cartoon/</loc>
     <lastmod>2018-10-11T10:20:16+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zhouupeng.github.io/en/gallery/cartoon/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://zhouupeng.github.io/ko/gallery/cartoon/"
-                />
   </url><url>
     <loc>https://zhouupeng.github.io/ko/categories/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://zhouupeng.github.io/en/categories/"
+                hreflang="zh-cn"
+                href="https://zhouupeng.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-cn"
-                href="https://zhouupeng.github.io/categories/"
+                hreflang="en"
+                href="https://zhouupeng.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -110,13 +65,13 @@
     <loc>https://zhouupeng.github.io/ko/tags/index/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://zhouupeng.github.io/en/tags/index/"
+                hreflang="zh-cn"
+                href="https://zhouupeng.github.io/tags/index/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-cn"
-                href="https://zhouupeng.github.io/tags/index/"
+                hreflang="en"
+                href="https://zhouupeng.github.io/en/tags/index/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -124,33 +79,18 @@
                 href="https://zhouupeng.github.io/ko/tags/index/"
                 />
   </url><url>
-    <loc>https://zhouupeng.github.io/ko/posts/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zhouupeng.github.io/en/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://zhouupeng.github.io/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://zhouupeng.github.io/ko/posts/"
-                />
+    <loc>https://zhouupeng.github.io/ko/ko/posts/</loc>
   </url><url>
     <loc>https://zhouupeng.github.io/ko/series/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://zhouupeng.github.io/en/series/"
+                hreflang="zh-cn"
+                href="https://zhouupeng.github.io/series/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-cn"
-                href="https://zhouupeng.github.io/series/"
+                hreflang="en"
+                href="https://zhouupeng.github.io/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -161,13 +101,13 @@
     <loc>https://zhouupeng.github.io/ko/tags/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://zhouupeng.github.io/en/tags/"
+                hreflang="zh-cn"
+                href="https://zhouupeng.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-cn"
-                href="https://zhouupeng.github.io/tags/"
+                hreflang="en"
+                href="https://zhouupeng.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"

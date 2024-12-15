@@ -4,21 +4,6 @@
   <url>
     <loc>https://zhouupeng.github.io/about/</loc>
     <lastmod>2024-12-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zhouupeng.github.io/en/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://zhouupeng.github.io/ko/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://zhouupeng.github.io/about/"
-                />
   </url><url>
     <loc>https://zhouupeng.github.io/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
@@ -79,16 +64,6 @@
   </url><url>
     <loc>https://zhouupeng.github.io/posts/emoji-support/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zhouupeng.github.io/en/posts/emoji-support/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://zhouupeng.github.io/posts/emoji-support/"
-                />
   </url><url>
     <loc>https://zhouupeng.github.io/tags/gamoji/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
@@ -118,21 +93,6 @@
   </url><url>
     <loc>https://zhouupeng.github.io/posts/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zhouupeng.github.io/en/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://zhouupeng.github.io/ko/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://zhouupeng.github.io/posts/"
-                />
   </url><url>
     <loc>https://zhouupeng.github.io/tags/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
